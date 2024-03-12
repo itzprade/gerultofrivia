@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerultofrivia
 - 👀 I’m interested in software architecture in general
-- 🌱 I’m currently learning android development + kotlin (I am a C# noob)
+- 🌱 I’m currently learning Generative AI & ML (I am a Python noob)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
