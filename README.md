@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gerultofrivia
+- 👋 Hi
 - 👀 I’m interested in software architecture in general
-- 🌱 I’m currently learning Generative AI & ML (I am a Python noob)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Generative AI & ML (I am a Python & Go noob)
 
 <!---
 gerultofrivia/gerultofrivia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
